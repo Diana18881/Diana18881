@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Guten Tag, ich bin Diana!
 
 Frontend-Entwicklerin mit Fokus auf React, TypeScript und modernes Webdesign.
@@ -17,24 +16,12 @@ Frontend-Entwicklerin mit Fokus auf React, TypeScript und modernes Webdesign.
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ## 📌 Top-Projekte
 
-🔗 [E-Commerce Dashboard mit Vue.js + Firebase](https://github.com/Diana18881/ecommerce-dashboard)  
-🔗 [React To-Do App mit TypeScript](https://github.com/Diana18881/react-todo)
+🔗 [Project – JavaScript-Webanwendung](https://github.com/Diana18881/Project)  
+Eine interaktive Frontend-Webanwendung mit JavaScript, die grundlegende UI-Funktionalitäten und Responsive Design demonstriert.
 
 ## ❤️ Danke, dass Sie mein Profil besucht haben!
-<!--
-**Diana18881/Diana18881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
